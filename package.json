@@ -1,4 +1,4 @@
-﻿{
+v﻿{
   "name": "oracle-ffq93",
   "version": "1.0.0",
   "description": "Auto-generated repo for DX farming",
@@ -7,5 +7,5 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT"savdadsv
 }
